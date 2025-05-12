@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&fontColor=000000&text=Junyoung's%20Github)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&fontColor=FFFFFF&text=Junyoung's%20Github)
 
 ## Hi there 👋
 
