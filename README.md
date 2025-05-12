@@ -6,7 +6,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 - - -
 
 ## About me 
-- Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU), Korea
+- 🎓Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU), Korea
 - Highly interested in cloud services, with a strong desire to continuously learn and expand my knowledge in this area
 - Eager to continuously learn and apply the latest technologies into projects
 - Contact: jjun4662@gmail.com
