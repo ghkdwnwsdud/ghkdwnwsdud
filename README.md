@@ -11,6 +11,34 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 - Eager to continuously learn and apply the latest technologies into projects
 - Contact: jjun4662@gmail.com
 
+## 🧱 Tech Stack
+### Language
+<!--Python-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<!--JavaScript-->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<!--Java-->
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<!--C-->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</br>
+
+### Framework
+<!--Flask-->
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<!--FastAPI-->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
+<!--Spring-->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=fla-squaret&logo=Spring&logoColor=white"/>
+<!--MySQL-->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+</br>
+
+### Cloud Infra
+<!--AWS-->
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/>
+
+
 <!--
 **ghkdwnwsdud/ghkdwnwsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
