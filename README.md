@@ -5,7 +5,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 
 - - -
 
-## About me 
+## 🔍 About me 
 - 🎓Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU), Korea
 - Highly interested in cloud services, with a strong desire to continuously learn and expand my knowledge in this area
 - Eager to continuously learn and apply the latest technologies into projects
@@ -62,7 +62,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <img src="https://img.shields.io/badge/Amazon%20Route53-8C4FFF?style=flat&logo=Amazon%20Route53&logoColor=white"/>
 </span>
 
-## 🏅 Certification
+## 🎖 Certification
 <a href="https://www.credly.com/badges/e3aaf98e-2c12-4914-bdb2-a41ca3bffc6b/public_url">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="100" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
