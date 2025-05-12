@@ -35,7 +35,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <!--Docker-->
-  <img src="
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white/>
 </span>
 
 ### Cloud Infra
@@ -56,7 +56,8 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=flat&logo=Amazon%20API%20Gateway&logoColor=white"/>
   <!--ELB-->
   <img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancer-8C4FFF?style=flat&logo=AWS%20Elastic%20Load%20Balancing&logoColor=white"/>
-
+  <!--Route53-->
+  <img src="https://img.shields.io/badge/Amazon%20Route53-8C4FFF?style=flat&logo=Amazon%20Route53&logoColor=white"/>
 </span>
   
 <!--
