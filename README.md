@@ -10,9 +10,8 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 - Highly interested in cloud services, with a strong desire to continuously learn and expand my knowledge in this area
 - Eager to continuously learn and apply the latest technologies into projects
 - Contact: jjun4662@gmail.com
-</br>
 
-## 🧱 Tech Stack
+## 🧱 Technical Skills
 ### Language
 <span>
   <!--Python-->
@@ -62,7 +61,6 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <!--Route53-->
   <img src="https://img.shields.io/badge/Amazon%20Route53-8C4FFF?style=flat&logo=Amazon%20Route53&logoColor=white"/>
 </span>
-</br>
 
 ## 🏅 Certification
 <a href="https://www.credly.com/badges/e3aaf98e-2c12-4914-bdb2-a41ca3bffc6b/public_url">
