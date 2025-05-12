@@ -1,6 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&fontColor=FFFFFF&text=Junyoung's%20Github)
 
-## Hi there 👋
+# Hi I'm Junyoung 👋
+Curious and driven software engineer interested in the Cloud Technologies and Developer Experience
+
+- - -
+
+## About me 
+- Bachelor of Computer Science and Engineering, Sungkyunkwan University(SKKU), Korea
+- Highly interested in cloud services, with a strong desire to continuously learn and expand my knowledge in this area
+- Eager to continuously learn and apply the latest technologies into projects
+- Contact: jjun4662@gmail.com
 
 <!--
 **ghkdwnwsdud/ghkdwnwsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
