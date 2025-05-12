@@ -61,6 +61,14 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <!--Route53-->
   <img src="https://img.shields.io/badge/Amazon%20Route53-8C4FFF?style=flat&logo=Amazon%20Route53&logoColor=white"/>
 </span>
+
+## 🏅 Certification
+<a href="[https://www.credly.com/badges/your-badge-id](https://www.credly.com/badges/e3aaf98e-2c12-4914-bdb2-a41ca3bffc6b/public_url)">
+  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png" width="100" alt="AWS Certified Solutions Architect – Associate"/>
+</a>
+<br/>
+<strong>AWS Certified Solutions Architect – Associate</strong><br/>
+Issued May 2025 · Expires May 2028
   
 <!--
 **ghkdwnwsdud/ghkdwnwsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
