@@ -24,19 +24,39 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </span>
 
-### Framework
-<!--Flask-->
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
-<!--FastAPI-->
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-<!--Spring-->
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<!--MySQL-->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+### Framework & Container
+<span>
+  <!--Flask-->
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+  <!--FastAPI-->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
+  <!--Spring-->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <!--Docker-->
+  <img src="
+</span>
 
 ### Cloud Infra
-<!--AWS-->
-<img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/>
+<span>
+  <!--AWS-->
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/>
+  <!--EC2-->
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white"/>
+  <!--S3-->
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white"/>
+  <!--Lambda-->
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=AWS%20Lambda&logoColor=white"/>
+  <!--RDS-->
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=Amazon%20RDS&logoColor=white"/>
+  <!--DynamoDB-->
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white"/>
+  <!--APIGateway-->
+  <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?style=flat&logo=Amazon%20API%20Gateway&logoColor=white"/>
+  <!--ELB-->
+  <img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancing-8C4FFF?style=flat&logo=AWS%20Elastic%20Load%20Balancer&logoColor=white"/>
+  
 
 
 <!--
