@@ -63,8 +63,8 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 </span>
 
 ## 🏅 Certification
-<a href="[https://www.credly.com/badges/your-badge-id](https://www.credly.com/badges/e3aaf98e-2c12-4914-bdb2-a41ca3bffc6b/public_url)">
-  <img src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified-Solutions-Architect-Associate_512x512.png" width="100" alt="AWS Certified Solutions Architect – Associate"/>
+<a href="https://www.credly.com/badges/e3aaf98e-2c12-4914-bdb2-a41ca3bffc6b/public_url">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="100" alt="AWS Certified Solutions Architect – Associate"/>
 </a>
 <br/>
 <strong>AWS Certified Solutions Architect – Associate</strong><br/>
