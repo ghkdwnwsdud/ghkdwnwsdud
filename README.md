@@ -10,6 +10,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 - Highly interested in cloud services, with a strong desire to continuously learn and expand my knowledge in this area
 - Eager to continuously learn and apply the latest technologies into projects
 - Contact: jjun4662@gmail.com
+- Tech Blog: [vampirehollie.tistory.com](https://vampirehollie.tistory.com/)
 
 ## 🧱 Technical Skills
 #### Language
