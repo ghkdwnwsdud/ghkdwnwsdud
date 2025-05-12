@@ -68,7 +68,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 </a>
 <br/>
 <strong>AWS Certified Solutions Architect – Associate</strong><br/>
-Issued May 2025 · Expires May 2028
+<sub>Issued May, 2025 · Expires May, 2028</sub>
   
 <!--
 **ghkdwnwsdud/ghkdwnwsdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
