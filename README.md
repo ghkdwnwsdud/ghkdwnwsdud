@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&fontColor=FFFFFF&text=Junyoung's%20Github)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Junyoung's%20Github&fontSize=40&animation=twinkling)
 
 # Hi I'm Junyoung 👋
 Curious and driven software engineer interested in the Cloud Technologies and Developer Experience
