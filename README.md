@@ -36,6 +36,8 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <!--Docker-->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <!--Firebase-->
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/>
 </span>
 
 ### Cloud Infra
