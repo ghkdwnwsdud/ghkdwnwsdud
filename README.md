@@ -12,7 +12,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
 - Contact: jjun4662@gmail.com
 
 ## 🧱 Technical Skills
-### Language
+#### Language
 <span>
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -24,7 +24,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 </span>
 
-### Framework & Container
+#### Framework & Container
 <span>
   <!--Flask-->
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
@@ -40,7 +40,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white"/>
 </span>
 
-### Cloud Infra
+#### Cloud Infra
 <span>
   <!--AWS-->
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white"/>
