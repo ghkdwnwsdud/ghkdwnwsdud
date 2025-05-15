@@ -60,7 +60,7 @@ Curious and driven software engineer interested in the Cloud Technologies and De
   <!--ELB-->
   <img src="https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancer-8C4FFF?style=flat&logo=AWS%20Elastic%20Load%20Balancing&logoColor=white"/>
   <!--Route53-->
-  <img src="https://img.shields.io/badge/Amazon%20Route53-8C4FFF?style=flat&logo=Amazon%20Route53&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=flat&logo=Amazon%20Route%2053&logoColor=white"/>
 </span>
 
 ## 🎖 Certification
